@@ -1,0 +1,38 @@
+{
+  "name": "world-beauty",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "start": "turbo start"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "npm@10.7.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "@hookform/resolvers": "3.9.0",
+    "@nextui-org/react": "2.4.6",
+    "@radix-ui/react-slot": "1.1.0",
+    "dayjs": "1.11.13",
+    "framer-motion": "11.5.4",
+    "react-hook-form": "7.53.0",
+    "react-toastify": "10.0.5",
+    "uuid": "10.0.0",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3",
+    "@faker-js/faker": "8.4.1",
+    "@types/node": "22.5.2",
+    "@types/uuid": "10.0.0",
+    "@vitest/coverage-v8": "2.0.5",
+    "turbo": "2.1.2",
+    "typescript": "5.5.4",
+    "vitest": "2.0.5"
+  }
+}

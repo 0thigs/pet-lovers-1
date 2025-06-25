@@ -1,0 +1,5 @@
+export { RegisterCustomer } from './register-customer'
+export { UpdateCustomer } from './update-customer'
+export { DeleteCustomer } from './delete-customer'
+export { ConsumeProductrOrService } from './consume-product-or-service'
+export { ListCustomerProductsOrServices } from './list-customer-products-or-services'
