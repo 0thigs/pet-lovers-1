@@ -2,12 +2,12 @@
 
 ## 🖥️ Sobre o projeto
 
-Este é um app multi-modal de gerenciamento de clientes, pets, produtos e serviços para uma empresa fictícia chamada Pet Lovers. O desenvolvimento do projeto foi dividido em 5 *branchs*, cada uma contendo uma aplicação diferente, que são:
-- **atv1**: Aplicação CLI.
-- **atv2**: Aplicação React utilizando class components. 
-- **atv3**: Aplicação React utilizando functional compoments. 
-- **atv4**: Aplicação React com backend em Java.
-- **atv5**: Aplicação React com backend em NodeJs.
+Este é um app multi-modal de gerenciamento de clientes, pets, produtos e serviços para uma empresa fictícia chamada Pet Lovers. O desenvolvimento do projeto foi dividido em 5 *repositorios*, cada uma contendo uma aplicação diferente, que são:
+- **pet-lovers-1**: Aplicação CLI.
+- **pet-lovers-2**: Aplicação React utilizando class components. 
+- **pet-lovers-3**: Aplicação React utilizando functional compoments. 
+- **pet-lovers-4**: Aplicação React com backend em Java.
+- **pet-lovers-5**: Aplicação React com backend em NodeJs.
 
 ---
 
